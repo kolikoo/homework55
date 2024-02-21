@@ -1,0 +1,220 @@
+/* fonts */
+
+/* body */
+
+
+/* header  */
+header {
+  background-color: rgba(42, 157, 143, 1);
+  padding: 38px 130px;
+  width: 1440px;
+}
+
+.nav1 {
+  display: inline-block;
+}
+
+a {
+  display: inline-block;
+}
+
+.na{display: inline-block}
+ul {
+  display: inline-block;
+}
+
+
+
+.logo1 {
+  margin-right: 740px;
+  vertical-align: middle;
+}
+
+.navfirst {
+  color: rgba(255, 255, 255, 1);
+
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.one {
+  margin-right: 51px;
+  vertical-align: middle;
+}
+
+/* article */
+
+article{ 
+margin: 322px 330px 200px;
+width: 782px;
+}
+
+
+.tentang{
+ font-size: 48px;
+
+  color: rgba(77, 77, 77, 1);
+ 
+ margin: 0 218px 60px 240px;
+
+font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;}
+
+
+  .textone{
+   color: rgba(101, 101, 101, 1);
+   font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+ margin-bottom: 34px; 
+line-height: 36px;}
+
+
+  .texttwo{
+   color: rgba(101, 101, 101, 1);
+   font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+ line-height: 36px;}
+
+ /* section  */
+
+
+
+ .section1{
+  background-color: rgba(194, 243, 238, 1);
+ padding: 80px 130px;
+ }
+
+.xe{vertical-align: middle;}
+
+
+ .section1div{
+  display: inline-block; 
+ width: 460px;
+ margin-left: 100px;
+ vertical-align: middle;
+ }
+
+
+ .bersama{
+  font-size: 32px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: rgba(39, 39, 39, 1);
+  margin-bottom: 27px;
+ 
+ }
+
+
+ .textthree{
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  color: rgba(39, 39, 39, 1);
+  margin-bottom: 27px;
+ line-height: 27px;}
+
+ .button2{
+  width: 113px;
+ height: 46px;
+background-color: rgba(42, 157, 143, 1);
+
+border:0;
+color: 
+rgba(255, 255, 255, 1);}
+
+
+
+/* section2 */
+
+.section2{
+ display: inline-block;
+margin: 200px 120px;
+}
+
+.berita{
+ font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  color: rgba(77, 77, 77, 1);
+  font-size: 48px;
+  margin:0 333px 54px 350px ;
+ }
+
+.post1{
+ display: inline-block;
+ margin-right: 20px;
+
+}
+
+
+
+.post2{display: inline-block;}
+
+
+
+.posttext{
+ margin-top: 32px;
+color: rgba(83, 83, 83, 1);
+font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 36px;
+
+}
+
+
+/* footer  */
+
+
+
+
+footer{
+ background-color: rgba(42, 157, 143, 1);
+ padding: 90px 100px;
+
+}
+.logo10{vertical-align: middle; }
+
+.nav3{
+
+vertical-align: top;
+display: inline-block;
+
+margin-left: 938px;
+vertical-align: middle;
+
+}
+
+.navsecond{
+ 
+ 
+ color: rgba(255, 255, 255, 1);
+font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+ 
+ }
+
+ .two{
+  margin-bottom: 21px;
+ 
+ font-size: 20px;}
+
+
+
+ .keta{font-size: 50px;
+ margin-top: 50px;}
+
+
+ .ketaketa{border: 50px black solid; margin: 100px 200px}
